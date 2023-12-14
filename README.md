@@ -3,6 +3,7 @@
 ## FEATURES
 - Draw numbers between 1-6.
 - Usage all the time 0.00.
+- You can play this with your friend for money, and whoever gets the bigger number wins...
 
 ## REQUIRE
 - qb-core
